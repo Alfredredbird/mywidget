@@ -1,0 +1,5 @@
+{
+    "xenlive-edit.local.excludePatterns": "",
+    "xenlive-edit.remote.widgetName": "MyWidget",
+    "xenlive-edit.remote.deviceIP": "192.168.0.215"
+}

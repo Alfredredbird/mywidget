@@ -1,0 +1,21 @@
+Body {
+       -webkit-backdrop-filter: blur(20px);
+        background-color: #ffffffA0;
+
+
+
+Font-weight: bold;
+Font-family: chalkduster,fantasy;
+Font-size: 3rem;
+Padding: auto;
+Color: lightskyblue;
+}
+
+
+p{
+	color:Skyblue;
+	font-family:arial;
+	font-size:30%;
+	text-align:center ;
+	}
+
